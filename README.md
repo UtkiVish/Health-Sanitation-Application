@@ -70,21 +70,9 @@ This application provides a centralized platform to:
 
 ---
 
-## 🙌 Contributing
-
-We welcome contributions! Fork the repo and submit a pull request. Please read `CONTRIBUTING.md` for guidelines.
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-## 🤝 Connect
-
-For collaborations, suggestions, or support, feel free to reach out at **your-email@example.com**.
 
 ---
 
